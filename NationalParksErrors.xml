@@ -57,7 +57,7 @@
       <City>Estes Park</City>
       <State>CO</State>
       <Zip>80517</Zip>
-    <Address NearestAirport="Denver">
+    </NationalPark>
   </NationalPark>
   <NationalPark Rating="4.5">
     <Name>Great Smoky Mountains</Name>
